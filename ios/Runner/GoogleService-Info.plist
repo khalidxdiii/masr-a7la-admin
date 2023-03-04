@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>77851175495-8p5e5dkerdv6nrod2hlmet5k9a5pboav.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.77851175495-8p5e5dkerdv6nrod2hlmet5k9a5pboav</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAvbDoA8cZkhB9G1n11hoXskTDidI4XZI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>77851175495</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.masrA7laAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>masr-a7la-2023</string>
+	<key>STORAGE_BUCKET</key>
+	<string>masr-a7la-2023.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:77851175495:ios:0782be898173b86e1b9f62</string>
+	<key>DATABASE_URL</key>
+	<string>https://masr-a7la-2023-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
